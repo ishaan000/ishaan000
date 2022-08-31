@@ -8,7 +8,7 @@ My role revolved around making the experience better for users by giving meaning
 
 Fun fact: I am a developer by day and a DJ by night, I play deep house and hard techno at some of the underground clubs around California
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={ishaan000}
 
  
 <!--
