@@ -1,16 +1,16 @@
 ### Hi there, I am Ishaan 👋
 
-From Code to Beats: A Performance-Driven Software Developer with a Passion for Music and Programming!
+From code to beats: A performance-driven software developer with a passion for music and programming!
 
-With a Talent for Client and Server-Side Scripting in Java, AJAX, Python, and Always Eager to Learn a New Language, I'm Pursuing a Master's in Software Engineering at San Jose State University.
+With a talent for client and server-side scripting in Java, AJAX, Python, and always eager to learn a new language, I'm pursuing a Master's in Software Engineering at San Jose State University.
 
-My Experience as an Ex-Software Engineering Intern at ServiceNow was Music to My Ears - I Collaborated with the Platform Engineering Team on the Automated Testing Framework Tool, Helping Customers Verify Customizations and Enhance Their User Experience.
+My experience as an ex-software engineering intern at ServiceNow was music to my ears - I collaborated with the Platform Engineering Team on the Automated Testing Framework Tool, helping customers verify customizations and enhance their user experience.
 
-My Contributions to the Project Included Improving Search and Filtering for Records with Effective Promise Chains in JavaScript, Reducing Testing Time by 50%. I Also Gained Valuable Experience with REST API, JUnit Tests, Maven, Jenkins, and Kubernetes.
+My contributions to the project included improving search and filtering for records with effective Promise chains in JavaScript, reducing testing time by 50%. I also gained valuable experience with REST API, JUnit tests, Maven, Jenkins, and Kubernetes.
 
-When I'm Not Crafting High-Quality Code, I'm Crafting High-Quality Beats - Spinning Deep House and Hard Techno at Underground Clubs Across California.
+When I'm not crafting high-quality code, I'm crafting high-quality beats - spinning deep house and hard techno at underground clubs across California.
 
-Let's Jam and Create Some Cutting-Edge Software Together!
+Let's jam and create some cutting-edge software together!
  
 <!--
 **ishaan000/ishaan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
