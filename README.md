@@ -1,12 +1,14 @@
 ### Hi there, I am Ishaan 👋
 
-I am a passionate and performance driven software developer with a knack in client and server-side scripting; proficient in Java, AJAX, Python and always looking for a reason to learn a new language! I am also a senior at San Jose State University pursuing a master's degree in Software Engineering. 
+Passionate Software Developer by Day, DJ Extraordinaire by Night - I'm on a Mission to Create Amazing Code and Pump Up the Beats!
 
-Ex Software Engineering Intern at ServiceNow, worked with the platform engineering team on the automated testing framework tool, this gives customer the ability to create tests to verify the customer-specific customizations made on the ServiceNow platform.
-My role revolved around making the experience better for users by giving meaningful input on new and existing features, one of my major contributions was to improve the searching and filtering of records using effective promise chains in JavaScript which led to a decrease in testing time by 50% and had a direct impact on customer experience, other than that I worked on REST API, JUnit tests and got experience with Maven, Jenkins, and Kubernetes.
+With a Knack for Client and Server-Side Scripting in Java, AJAX, Python, and Always on the Hunt for New Languages to Conquer, I'm a Senior at San Jose State University Pursuing a Master's in Software Engineering.
 
+As an Ex-Software Engineering Intern at ServiceNow, I Rocked the Platform Engineering Team with My Contributions to the Automated Testing Framework Tool, Helping Customers Verify Customizations and Enhance the User Experience.
 
-Fun fact: I am a developer by day and a DJ by night, I play deep house and hard techno at some of the underground clubs around California
+By Leveraging Effective Promise Chains in JavaScript, I Improved Search and Filtering for Records and Reduced Testing Time by 50%. I Also Gained Valuable Experience with REST API, JUnit Tests, Maven, Jenkins, and Kubernetes.
+
+Let's Connect and Create Some Awesome Code - and Who Knows, Maybe Even Spin Some Tracks Together!
 
 
 
