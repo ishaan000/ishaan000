@@ -7,7 +7,7 @@ With a talent for client and server-side scripting in Java, AJAX, Python and alw
 My experience as an ex-software engineering intern at ServiceNow was music to my ears - I collaborated with the Platform Engineering Team on the Automated Testing Framework Tool, helping customers verify customizations and enhance their user experience.
 My contributions to the project included improving search and filtering for records with effective Promise chains in JavaScript, reducing testing time by 50%. I also gained valuable experience with REST API, JUnit tests, Maven, Jenkins, and Kubernetes.
 
-When I'm not crafting high-quality code, I'm crafting high-quality beats - spinning deep house and hard techno at underground clubs across California.
+When I'm not crafting high-quality code, I'm crafting high-quality beats - spinning deep house and techno at clubs across California.
 Let's jam and create some cutting-edge software together!
  
 <!--
