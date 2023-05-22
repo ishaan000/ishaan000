@@ -2,7 +2,7 @@
 
 From code to beats: A performance-driven software developer passionate about music and programming!
 
-With a talent for client and server-side scripting in Java, AJAX, Python and always eager to learn a new language, I'm pursuing a Master's in Software Engineering at San Jose State University.
+With a talent for client and server-side scripting in Java, AJAX, Python and always eager to learn a new language.
 
 My experience as an ex-software engineering intern at ServiceNow was music to my ears - I collaborated with the Platform Engineering Team on the Automated Testing Framework Tool, helping customers verify customizations and enhance their user experience.
 My contributions to the project included improving search and filtering for records with effective Promise chains in JavaScript, reducing testing time by 50%. I also gained valuable experience with REST API, JUnit tests, Maven, Jenkins, and Kubernetes.
