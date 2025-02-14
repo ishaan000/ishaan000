@@ -1,6 +1,6 @@
 ### Hi there, I am Ishaan 👋
 
-From code to beats: A performance-driven software developer passionate about music and programming!
+A performance-driven software developer passionate about AI and programming!
 
 <!--
 **ishaan000/ishaan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
