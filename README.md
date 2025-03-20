@@ -1,7 +1,6 @@
-### Hi there, I am Ishaan 👋
+### Software Engineer × AI Enthusiast × Impact-Driven Creator
 
-A performance-driven software developer passionate about AI and programming!
-
+Passionate about building tech that empowers people, creates meaningful experiences, and sparks creativity through AI.
 <!--
 **ishaan000/ishaan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
