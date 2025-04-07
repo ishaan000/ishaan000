@@ -1,6 +1,6 @@
-### Software Engineer × AI Enthusiast × Impact-Driven Creator
+### Software Engineer × AI Developer × Impact-Driven Creator
 
-Passionate about building tech that empowers people, creates meaningful experiences, and sparks creativity through AI.
+Passionate about building tech that empowers people and creates meaningful experiences.
 <!--
 **ishaan000/ishaan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
