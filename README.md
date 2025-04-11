@@ -25,7 +25,9 @@ I build with a mix of **engineering precision** and **human intention**. Whether
 
 💼 [LinkedIn](https://www.linkedin.com/in/ishaanbhalla)  
 📬 Email me: ibhalla1998@gmail.com  
-🌍 Based in SF | Open to freelance, collabs & coffee chats  
+🌍 Based in SF | Open to freelance, collabs & coffee chats
+
+Book some time [here](https://calendly.com/ibhalla1998/lets-talk-about-your-app) if you want to chat!
 
 ---
 
