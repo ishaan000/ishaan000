@@ -8,10 +8,10 @@ I'm not just here to code — I’m here to **build agentic systems** that actua
 
 ### ⚡ What I Do
 
-- 🛠️ **Full Stack Development** — React, Next.js, Flask, TypeScript, Docker, PostgreSQL, Kubernetes  
+- 🛠️ **Full Stack Development** — React, Next.js, Flask, TypeScript, Python, Docker, PostgreSQL, Kubernetes  
 - 🤖 **AI Engineering** — OpenAI APIs, LangChain, LLM tooling, function calling, agentic architectures  
 - 📦 **System Design & DevOps** — Scalable services, containerized deployments, performance-first thinking  
-- 🌱 **Hackathons & Freelance Work** — Building for NGOs, startups, and communities that drive change
+- 🌱 **Freelance Work** — Building for NGOs, startups, and communities that drive change
 
 ---
 
@@ -29,4 +29,4 @@ I build with a mix of **engineering precision** and **human intention**. Whether
 
 ---
 
-*“Tech with soul. Code with purpose. Always building.”*
+*“Tech with soul. Code with purpose.”*
