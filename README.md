@@ -2,7 +2,7 @@
 
 ### 🧠 Full Stack Engineer | AI Craftsman | Impact-Driven Builder
 
-I'm not just here to code — I’m here to **build agentic systems** that actually *think* and make lives easier. From mental health tools to sustainability-focused AI, I love shipping products that *matter*.
+I’m here to **build agentic systems** that actually *think* and make lives easier. From mental health tools to sustainability-focused AI, I love shipping products that *matter*.
 
 ---
 
