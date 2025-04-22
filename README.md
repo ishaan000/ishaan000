@@ -2,7 +2,7 @@
 
 ### 🧠 Full Stack Engineer | AI Craftsman | Impact-Driven Builder
 
-From mental health tools to sustainability-focused AI, I love shipping products that *matter*.
+From mental health tools to sustainability-focused AI, I love building products that *matter*.
 
 ---
 
