@@ -9,7 +9,7 @@ From mental health tools to sustainability-focused AI, I love building products 
 ### ⚡ What I Do
 
 - 🛠️ **Full Stack Development** — React, Next.js, Flask, TypeScript, Python, Docker, PostgreSQL, Kubernetes  
-- 🤖 **AI Engineering** — OpenAI APIs, LangChain, LLM tooling, function calling, agentic architectures  
+- 🤖 **AI Engineering** — OpenAI APIs, LangChain, LLM tooling, function calling, agentic architectures, Voice Agents, LiveKit 
 - 📦 **System Design & DevOps** — Scalable services, containerized deployments, performance-first thinking  
 - 🌱 **Freelance Work** — Building for NGOs, startups, and communities that drive change
 
